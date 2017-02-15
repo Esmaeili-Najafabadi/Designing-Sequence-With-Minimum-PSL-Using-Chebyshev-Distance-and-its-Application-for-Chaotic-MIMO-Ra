@@ -4,6 +4,8 @@ This repository is dedicated to the simulations of following article,
 >Designing Sequence With Minimum PSL Using Chebyshev Distance and its Application for Chaotic MIMO Radar Waveform Design. 
 >IEEE Transactions on Signal Processing, 65(3), 690-704.
 
+Availible at: [http://ieeexplore.ieee.org/document/7707413/](http://ieeexplore.ieee.org/document/7707413/)
+
 ## Bibtex citation is: 
 @article{esmaeili2017designing,
   title={Designing Sequence With Minimum PSL Using Chebyshev Distance and its Application for Chaotic MIMO Radar Waveform Design},
